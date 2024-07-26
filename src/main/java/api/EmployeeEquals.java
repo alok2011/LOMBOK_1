@@ -10,9 +10,9 @@ import lombok.ToString;
 @Getter
 @Setter
 @ToString
-@EqualsAndHashCode
 @AllArgsConstructor
 @NoArgsConstructor
+@EqualsAndHashCode
 public class EmployeeEquals {
 	private String name;
 	private String password;

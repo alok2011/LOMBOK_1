@@ -18,7 +18,7 @@ public class Runner
 //		EmployeeGetterSetter eg = new EmployeeGetterSetter();
 //		eg.setId(101l);
 //		eg.setName("RPS");
-//		System.out.println();
+//		System.out.println(eg.toString());
 		
 		
 		
@@ -39,6 +39,7 @@ public class Runner
 		
 //		EmployeeData ed = new EmployeeData("Alok. R. Tiwari","AAAAAL",25);
 //		System.out.println(ed.getName());
+//		System.out.println(ed.toString());
 		
 			
 		
